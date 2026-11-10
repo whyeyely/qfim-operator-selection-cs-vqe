@@ -1,0 +1,24 @@
+{
+  "method": "qfim",
+  "backend": "ibm_kingston",
+  "shots_requested": 1024,
+  "job_id": "dbpc7tc4148s739ucmdg",
+  "selected_indices": [
+    4,
+    6,
+    10,
+    12
+  ],
+  "optimal_parameters": [
+    -3.9419546625553266,
+    -4.111391004082004,
+    -3.9419120494386033,
+    -3.88217244432159
+  ],
+  "saved_statevector_json": "/Users/yi/Desktop/Qiskit Hackathon/Qiskit QC Submission/data/cs_vqe_sqd/sv-qfim-0.25-sqd-cs/HCl_STO-3G_SINGLET_JW.json",
+  "ideal_statevector_energy": -455.15610064894565,
+  "hardware_energy": -455.03929075238904,
+  "hardware_estimated_std": 0.023669661614676683,
+  "fci_error_mha": 117.77604075979298,
+  "transpiled_depth": 52
+}

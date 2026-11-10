@@ -1,0 +1,24 @@
+{
+  "method": "gradient",
+  "backend": "ibm_kingston",
+  "shots_requested": 1024,
+  "job_id": "dbpc800ou4as73cteelg",
+  "selected_indices": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "optimal_parameters": [
+    -0.16351082429290412,
+    -1.2190272748444406,
+    -1.4030903444058713,
+    -0.9857603076992578
+  ],
+  "saved_statevector_json": "/Users/yi/Desktop/Qiskit Hackathon/Qiskit QC Submission/data/cs_vqe_sqd/sv-gradient-0.25-sqd-cs/HCl_STO-3G_SINGLET_JW.json",
+  "ideal_statevector_energy": -455.1515115123306,
+  "hardware_energy": -455.00494236794765,
+  "hardware_estimated_std": 0.024895774168235935,
+  "fci_error_mha": 152.12442520117975,
+  "transpiled_depth": 50
+}
